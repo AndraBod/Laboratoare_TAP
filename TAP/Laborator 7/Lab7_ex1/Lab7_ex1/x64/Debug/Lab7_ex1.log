@@ -1,0 +1,10 @@
+﻿  Sablon.cpp
+  Main.cpp
+  Generating Code...
+Main.obj : error LNK2005: "public: void __cdecl Sablon<char *>::sortareBule(char * * const,int)" (?sortareBule@?$Sablon@PEAD@@QEAAXQEAPEADH@Z) already defined in Sablon.obj
+Main.obj : error LNK2019: unresolved external symbol "public: int __cdecl Sablon<int>::maxim(int * const,int)" (?maxim@?$Sablon@H@@QEAAHQEAHH@Z) referenced in function main
+Main.obj : error LNK2019: unresolved external symbol "public: int __cdecl Sablon<int>::minim(int * const,int)" (?minim@?$Sablon@H@@QEAAHQEAHH@Z) referenced in function main
+Main.obj : error LNK2019: unresolved external symbol "public: int __cdecl Sablon<int>::cautareSecventiala(int * const,int,int)" (?cautareSecventiala@?$Sablon@H@@QEAAHQEAHHH@Z) referenced in function main
+Main.obj : error LNK2019: unresolved external symbol "public: void __cdecl Sablon<int>::sortareBule(int * const,int)" (?sortareBule@?$Sablon@H@@QEAAXQEAHH@Z) referenced in function main
+Main.obj : error LNK2019: unresolved external symbol "public: void __cdecl Sablon<char const *>::sortareBule(char const * * const,int)" (?sortareBule@?$Sablon@PEBD@@QEAAXQEAPEBDH@Z) referenced in function main
+C:\Users\Bodan Elena Andrada\source\repos\Lab7_ex1\x64\Debug\Lab7_ex1.exe : fatal error LNK1120: 5 unresolved externals

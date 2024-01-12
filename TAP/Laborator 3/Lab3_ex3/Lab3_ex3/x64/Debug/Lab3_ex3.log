@@ -1,0 +1,3 @@
+﻿Carte.obj : error LNK2001: unresolved external symbol "private: static unsigned int Carte::instance" (?instance@Carte@@0IA)
+Main.obj : error LNK2001: unresolved external symbol "private: static unsigned int Carte::instance" (?instance@Carte@@0IA)
+C:\Users\Bodan Elena Andrada\source\repos\Lab3_ex3\x64\Debug\Lab3_ex3.exe : fatal error LNK1120: 1 unresolved externals
